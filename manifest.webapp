@@ -1,0 +1,17 @@
+{
+  "name": "Sinusitis",
+  "description": "A basic touch-driven music instrument",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon-128.png",
+    "32": "/icon-32.png"
+  },
+  "developer": {
+    "name": "316k",
+    "url": "http://wasting-ti.me/"
+  },
+  "chrome": {
+    "navigation": true
+  },
+  "default_locale": "en"
+}

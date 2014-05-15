@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.37914703"
+     inkscape:cx="347.59945"
+     inkscape:cy="503.04293"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="956"
+     inkscape:window-height="596"
+     inkscape:window-x="377"
+     inkscape:window-y="13"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:6;stroke-miterlimit:0;stroke-dasharray:none;stroke-linejoin:miter;stroke-dashoffset:0"
+       id="rect3811"
+       width="634.47504"
+       height="634.47504"
+       x="35.709587"
+       y="181.62386"
+       inkscape:export-filename="/var/www/sinusitis/icon-128.png"
+       inkscape:export-xdpi="18.156742"
+       inkscape:export-ydpi="18.156742" />
+    <path
+       style="fill:none;stroke:#508bb0;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 227.9125,212.80146 c -27.24784,1.5844 -54.01828,10.71564 -76.5548,26.1124 -22.53652,15.39676 -40.77554,37.01559 -52.15771,61.82287 -11.382165,24.80729 -15.875358,52.73303 -12.849079,79.8586 3.026278,27.12557 13.56349,53.37444 30.133019,75.06328 26.22308,34.32494 66.22422,56.34877 91.42857,91.42857 16.04409,22.33041 25.37442,49.42056 26.48392,76.89471 1.10949,27.47414 -6.00605,55.22843 -20.19728,78.77984 -14.19123,23.5514 -35.40451,42.8109 -60.21336,54.66759 -24.80884,11.85669 -53.11947,16.26574 -80.358992,12.515"
+       id="path2985"
+       inkscape:path-effect="#path-effect2987"
+       inkscape:original-d="m 227.9125,212.80146 c 0,0 -115.51062,166.19416 -111.42857,242.85715 3.70914,69.65957 85.70856,21.90523 91.42857,91.42857 6.6928,81.34702 -193.644372,166.83321 -134.285712,222.85714"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/var/www/sinusitis/logo.png"
+       inkscape:export-xdpi="18.156742"
+       inkscape:export-ydpi="18.156742" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.50999832000000112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#508bb0;fill-opacity:1;stroke:#508bb0;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       x="180.21968"
+       y="441.81219"
+       id="text3757"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/var/www/sinusitis/logo.png"
+       inkscape:export-xdpi="18.156742"
+       inkscape:export-ydpi="18.156742"><tspan
+         sodipodi:role="line"
+         x="180.21968"
+         y="441.81219"
+         id="tspan3761"
+         style="font-size:160px;fill:#508bb0;fill-opacity:1;font-family:Caslon;-inkscape-font-specification:Caslon;stroke:#508bb0;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">inusitis</tspan></text>
+  </g>
+</svg>

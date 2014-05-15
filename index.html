@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="keywords" content="music, html5, oscillator, music instrument, webapp" />
+        <meta name="description" content="A basic touch-driven music instrument" />
+        <meta name="author" content="Nicolas Hurtubise">
+        <script src="jquery-1.11.0.min.js"></script>
+        <script src="osc.js"></script>
+        <link href="style.css" rel="stylesheet" type="text/css">
+        <title>Sinusitis</title>
+    </head>
+    <body>
+        <div id="controls">
+            <label>Minimum frequency : <br />
+                <input type="number" id="min_freq" value="220" />
+            </label>
+            <label>Maximum frequency : <br />
+                <input type="number" id="max_freq" value="440" />
+            </label>
+            <label>Gain : <br />
+                <input type="range" id="gain" min="0" max="1000" value="500" />
+            </label>
+        </div>
+        <div id="container">
+            <button id="usage">Usage</button>
+            <button id="toggle-controls">Toggle controls...</button>
+            <button id="about">About</button>
+            <button id="start" onclick="setup()">Start</button>
+            <button id="stop" onclick="osc.stop(0)">Stop</button>
+            <div id="line"></div>
+            <div id="modal"><h1></h1><p></p>
+                <button id="close-modal">Close</button>
+            </div>
+        </div>
+    </body>
+</html>

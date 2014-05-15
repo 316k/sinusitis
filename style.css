@@ -1,0 +1,142 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #001B33;
+    color: #003B70;
+}
+
+a {
+    color: #003B70;
+}
+
+#toggle-controls, #about, #usage {
+    position: absolute;
+    top: 0;
+    width: 60%;
+    left: 20%;
+    height: 10%;
+    font-size: medium;
+    padding: 1%;
+    border-radius: 0;
+}
+
+#usage {
+    width: 20%;
+    left: 0;
+}
+
+#about {
+    width: 20%;
+    left: 80%;
+}
+
+#container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#modal {
+    background: black;
+    color: #508BB0;
+    width: 100%;
+    font-size: large;
+    height: 100%;
+    z-index: 100;
+    position: absolute;
+}
+
+#modal p, #modal h1 {
+    margin: 5%;
+}
+
+#modal h1 {
+    margin-top: 2%;
+}
+
+#close-modal {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+#controls {
+    left: 30%;
+    width: 40%;
+    margin: auto;
+    z-index: 10;
+    background-color: #001B33;
+    position: absolute;
+    top: 10%;
+    border: 1px solid #003B70;
+    padding: 2%;
+}
+
+label {
+    padding: 5px;
+    color: #508BB0;
+}
+
+input, button {
+    background-image: none;
+    background-color: #003B70;
+    color: #508BB0;
+}
+
+input {
+    border: #003B70 solid 1px;
+    width: 88%;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    background-image: none;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    float: left;
+    position: absolute;
+    bottom: 7%;
+    width: 30%;
+}
+
+button:hover {
+    background-color: #508BB0;
+    color: #003B70;
+}
+
+#start {
+    left: 15%;
+}
+
+#stop {
+    right: 15%;
+}
+
+#line {
+    position: absolute;
+    top: 16%;
+    height: 60%;
+    width: 100%;
+    background-color: #003B70;
+    color: #508BB0;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 500px) {
+    #controls {
+        width: 100%;
+        left: 0;
+        padding: 0;
+        padding-top: 10px;
+        border: none;
+    }
+}
