@@ -53,13 +53,13 @@ $(document).ready(function() {
 
             $('#usage').click(function() {
                 $('#modal h1').text('Usage...');
-                $('#modal p').html('Slide your finger on the the blue space in the center to play a sine noise !<br /><br />The screen has two axis : the horizontal one determines the pitch of the sound, while the vertical one determines its velocity.');
+                $('#modal p').html('Slide your finger on the the blue zone in the center to play a sine noise !<br /><br />The screen has two axis : the horizontal one determines the pitch of the sound, while the vertical one determines its velocity.');
                 $('#modal').fadeIn('fast');
             });
 
             $('#about').click(function() {
                 $('#modal h1').text('About this app...');
-                $('#modal p').html('This app has been created by <b>Nicolas Hurtubise</b>. It is distributed under the terms of the MIT License, and it is therefore free as in free speech. Do what you like with it.<br /><br />Also, as the license says, <b>This software is provided "AS IS"</b>. You will be the only responsible if you destroy your speakers with this app.<br /><a href="http://github.com/316k/sinusitis/">Source code available here</a>.');
+                $('#modal p').html('This app has been created by <b>Nicolas Hurtubise</b>. It is distributed under the terms of the MIT License, and it is therefore free as in free speech. Do whatever you like with it.<br /><br />Also, as the license says, <b>This software is provided "AS IS"</b>. You will be the only responsible if you destroy your speakers with this app.<br /><a href="http://github.com/316k/sinusitis/">Source code available here</a>.');
                 $('#modal').fadeIn('fast');
             });
 
