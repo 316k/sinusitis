@@ -17,4 +17,4 @@ Also, as the license says, **This software is provided "AS IS"**. You will be th
 
 ## Compatibility
 
-Since the app is based on experimental HTML5 technology, not all browsers can run it. Currently (last update : May 2014), only Firefox and Firefox OS support the required functionnalities.
+Since the app is based on experimental HTML5 technology, not all browsers can run it. To date, I tested it on Firefox and the Firefox OS simulator (which both support the required functionnalities) and on Chromium 34 (which doesn't).
